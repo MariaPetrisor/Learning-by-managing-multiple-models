@@ -1,0 +1,1 @@
+A learning program that implements the method of learning by managing multiple models. The program creates two models, a specialization model and a generalization model in order to solve John’s allergies problem.
